@@ -1,13 +1,74 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Side Projects
+description: Projects I've done in my free time
+image: 
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<div>
+    <h1> Haiku Generator </h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+    <p>
+        This web application generates a random haiku with the press of a button. <br>
+        Users also have the option of listening to a playback of the generated haiku. This project was created with NodeJS and Express.
+    </p>
+    <a target="_blank" 
+    href="https://www.haikugenerator.com"> 
+    haikugenerator.com </a>
+</div>
+<br>
+<div>
+<a target="_blank"
+    href="https://github.com/JonathanTIngram/HaikuGenerator"
+    >
+Source Code
+</a>
+</div>
+
+<br><br>
+
+<div>
+    <h1> Automated Chicken Door</h1>
+
+    <p>
+        This project utilizes a raspberry pi to control two servo motors to open and close a chicken door. The code to control the servo motors as well as open and close the door at a specific time is written in Python. As the raspberry pi is connected to wifi, it can be remotely accessed via ssh for maintenance.
+    </p>
+
+    <p>
+        The video below showcases the operation of this door.
+    </p>
+
+    <p>
+        <video width="200" height="300" controls>
+
+        <source src="assets/videos/chickenDoor.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        </video>
+    </p>
+
+    <div>
+    <a target="_blank"
+        href="https://github.com/JonathanTIngram/chickenDoor"
+        style="text-decoration: none;">
+    Source Code
+    </a>
+    </div>
+
+    <br>
+
+    <h2> Hardware Used </h2>
+
+    <a target="_blank" 
+    href="https://www.adafruit.com/product/2442"> 
+    Ada fruit continuous servo motor </a>
+
+    <div>
+    <a target="_blank"
+    href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/"> 
+    Raspberry Pi 3 model B </a>
+</div>
+</div>
+
+
