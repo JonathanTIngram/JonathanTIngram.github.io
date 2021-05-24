@@ -116,7 +116,7 @@ nav-menu: true
 
 		<div class="6u 12u$(small)">
 			<h3> Associate of Science, Computer Science </h3>
-			<h5> September 2018 - August 2021 </h5>
+			<h5> September 2018 - August 2020 </h5>
 			<p>
 				 	Rowan College at Burlington County, Mount Laurel, NJ <br>
 					 GPA: 3.07
