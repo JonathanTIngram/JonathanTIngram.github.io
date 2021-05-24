@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-description: My Professional Experiance
+description: My Professional Experience
 image:
 nav-menu: true
 ---
