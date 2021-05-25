@@ -110,7 +110,7 @@ nav-menu: true
 			<h5> September 2020 - December 2021 </h5>
 			<p>
 				 	Rowan University, Glassboro, NJ <br>
-					 GPA: 3.4
+					 GPA: 3.47
 			</p>
 		</div>
 
