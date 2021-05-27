@@ -26,7 +26,9 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Industry Skills</h3>
 			<p>
-				 	Object-Oriented Programming, Data Structures, Cloud Computing <br>(AWS, Digital Ocean, Linode)
+				 	Object-Oriented Programming, Data Structures, <br> 
+					 Cloud Computing (AWS, Digital Ocean, Linode) <br>
+					 Static Webpage Generation (Jekyll)
 			</p>
 		</div>
 
