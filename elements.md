@@ -35,7 +35,7 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Programming/Scripting</h3>
 			<p>
-				 	Python, C/C++, Java, HTML, CSS, JavaScript (React, Node), Bash
+				 	Python, C/C++, Java, HTML, CSS, PHP, JavaScript (React, Node), Bash
 			</p>
 		</div>
 
