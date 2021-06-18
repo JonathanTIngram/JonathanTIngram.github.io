@@ -27,7 +27,7 @@ nav-menu: true
 			<h3> Industry Skills</h3>
 			<p>
 				 	Object-Oriented Programming, Data Structures, <br> 
-					 Cloud Computing (AWS, Digital Ocean, Linode) <br>
+					 Cloud Computing (AWS, Digital Ocean, Linode), <br>
 					 Static Webpage Generation (Jekyll)
 			</p>
 		</div>
@@ -46,7 +46,7 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Tools </h3>
 			<p>
-				 	Vim, Visual Studio Code, Eclipse, IDLE, git/GitHub, VirtualBox, Trello
+				 	Vim, Visual Studio Code, Eclipse, IDLE, git/GitHub, Docker, VirtualBox, Trello
 			</p>
 		</div>
 
