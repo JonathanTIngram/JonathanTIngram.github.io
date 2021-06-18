@@ -46,7 +46,7 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Tools </h3>
 			<p>
-				 	Vim, Visual Studio Code, Eclipse, IDLE, git/GitHub, Docker, VirtualBox, Trello
+				 	Vim, Visual Studio Code, Eclipse, IDLE, git, GitHub, Docker, VirtualBox, Trello
 			</p>
 		</div>
 
