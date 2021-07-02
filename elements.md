@@ -53,7 +53,7 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Operating Systems </h3>
 			<p>
-				 	Windows, Unix/Linux, MacOS
+				 	Windows and Unix Based Operating Systems
 			</p>
 		</div>
 </div>
