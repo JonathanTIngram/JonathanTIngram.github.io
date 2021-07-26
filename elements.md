@@ -81,7 +81,7 @@ nav-menu: true
 			<h5>July 2021 - Present</h5>
 
 			<p>
-			 	Java/C++ development in an agile work envirornment, with the use of Unix, git, JIRA and Eclipse.
+			 	Java/C++ development in an agile work envirornment, with the use of Unix, git, JIRA and Jenkins.
 			</p>
 		</div>
 
