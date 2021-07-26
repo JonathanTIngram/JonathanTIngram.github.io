@@ -75,6 +75,15 @@ nav-menu: true
 	<h2 id="content">Work Experience</h2>
 
 	<div class="row">
+		
+		<div class="6u 12u$(small)">
+			<h3> Lockheed Martin - Colege Student Technical Specialist</h3>
+			<h5>July 2021 - Present</h5>
+
+			<p>
+			 	Java/C++ development in an agile work envirornment, with the use of Unix, git, JIRA and Eclipse.
+			</p>
+		</div>
 
 		<div class="6u 12u$(small)">
 			<h3> Effortless Presence - Software Engineer Intern</h3>
@@ -90,7 +99,7 @@ nav-menu: true
 			<h5>January 2021 - May 2021</h5>
 
 			<p>
-				In this agile work envirornment, I played an active role in the backend development team. 
+				In this agile work envirornment with the use of Trello, I played an active role in the backend development team. 
 				The primary technologies I used while at this position were MySQL and NodeJS.
 			</p>
 		</div>
