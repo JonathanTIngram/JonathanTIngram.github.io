@@ -87,7 +87,7 @@ nav-menu: true
 
 		<div class="6u 12u$(small)">
 			<h3> Effortless Presence - Software Engineer Intern</h3>
-			<h5>May 2021 - Present</h5>
+			<h5>May 2021 - August 2021</h5>
 
 			<p>
 			 	Fullstack web development using, MySQL, Express, React and NodeJS, with the use of Amazon Web Services (AWS) to deploy the aplication.
