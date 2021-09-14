@@ -14,6 +14,11 @@ nav-menu: true
         This web application generates a random haiku with the press of a button. <br>
         Users also have the option of listening to a playback of the generated haiku. This project was created with NodeJS and Express.
     </p>
+
+	<p>
+
+		<img src="img/HaikuScreenshot.png"></img
+	</p>
     <a target="_blank" 
     href="https://www.haikugenerator.com"> 
     haikugenerator.com </a>
