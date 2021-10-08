@@ -17,7 +17,7 @@ nav-menu: true
 
 	<p>
 
-		<img src="img/HaikuScreenshot.png"></img
+		<img src="img/HaikuScreenshot.png">
 	</p>
     <a target="_blank" 
     href="https://www.haikugenerator.com"> 
