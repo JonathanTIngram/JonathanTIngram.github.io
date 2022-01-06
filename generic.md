@@ -6,6 +6,33 @@ image:
 nav-menu: true
 ---
 
+
+<div>
+    <h1> Haiku Generator </h1>
+
+
+    <p>
+        This web application generates a random haiku with the press of a button. <br>
+        Users also have the option of listening to a playback of the generated haiku. This project was created with NodeJS and Express.
+    </p>
+
+	<p>![unknown](https://user-images.githubusercontent.com/38962360/148326287-45db01f6-c469-4344-be5a-be6e59276011.jpg)
+	</p>
+</div>
+<br>
+<div>
+<a target="_blank"
+    href="https://github.com/JonathanTIngram/MusicGenerator"
+    >
+Source Code
+</a>
+</div>
+
+<br><br>
+
+<div>
+	
+
 <div>
     <h1> Haiku Generator </h1>
 
