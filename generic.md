@@ -17,7 +17,7 @@ nav-menu: true
     </p>
 
 	<p>
-		<img src="https://user-images.githubusercontent.com/38962360/148326287-45db01f6-c469-4344-be5a-be6e59276011.jpg">
+		<img style="width: 80%" src="https://user-images.githubusercontent.com/38962360/148326287-45db01f6-c469-4344-be5a-be6e59276011.jpg">
 	</p>
 </div>
 <br>
