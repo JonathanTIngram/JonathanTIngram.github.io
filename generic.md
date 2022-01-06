@@ -8,12 +8,12 @@ nav-menu: true
 
 
 <div>
-    <h1> Haiku Generator </h1>
+    <h1> Music Generator </h1>
 
 
     <p>
-        This web application generates a random haiku with the press of a button. <br>
-        Users also have the option of listening to a playback of the generated haiku. This project was created with NodeJS and Express.
+        This web application the Spotify Web API to get similar artists to the one you search. <br>
+        This project was created with React, Node JS, Socket IO, and Express JS.
     </p>
 
 	<p>![unknown](https://user-images.githubusercontent.com/38962360/148326287-45db01f6-c469-4344-be5a-be6e59276011.jpg)
