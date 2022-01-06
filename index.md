@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I have my BS in Computer Science from Rowan University and currently work as a software engineer. Some of my interests within the field include full stack web development, the internet of things and robotics.
+ Some of my interests within the field include full stack web development, the internet of things and robotics.
