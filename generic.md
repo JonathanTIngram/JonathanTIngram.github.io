@@ -16,7 +16,8 @@ nav-menu: true
         This project was created with React, Node JS, Socket IO, and Express JS.
     </p>
 
-	<p>![unknown](https://user-images.githubusercontent.com/38962360/148326287-45db01f6-c469-4344-be5a-be6e59276011.jpg)
+	<p>
+		<img src="https://user-images.githubusercontent.com/38962360/148326287-45db01f6-c469-4344-be5a-be6e59276011.jpg">
 	</p>
 </div>
 <br>
