@@ -14,6 +14,8 @@ nav-menu: true
     <p>
         This web application the Spotify Web API to get similar artists to the one you search. <br>
         This project was created with React, Node JS, Socket IO, and Express JS.
+	    
+	The site is in the process of being published.
     </p>
 
 	<p>
