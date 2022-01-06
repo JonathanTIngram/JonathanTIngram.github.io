@@ -47,7 +47,7 @@ Source Code
 
 	<p>
 
-		<img style="width: 20%" src="img/HaikuScreenshot.png">
+		<img style="width: 40%" src="img/HaikuScreenshot.png">
 	</p>
     <a target="_blank" 
     href="https://www.haikugenerator.com"> 
