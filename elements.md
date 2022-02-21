@@ -77,12 +77,16 @@ nav-menu: true
 	<div class="row">
 		
 		<div class="6u 12u$(small)">
-			<h3> Lockheed Martin - Colege Student Technical Specialist</h3>
-			<h5>July 2021 - Present</h5>
-
+			<h3> Lockheed Martin - Associate Software Engineer</h3>
+			<h5>January 2022 - Present</h5>
+			
 			<p>
-			 	Java/C++ development in an agile work envirornment, with the use of Unix, git, JIRA and Jenkins.
+			 	Java development in an agile work envirornment, with the use of Unix, git, JIRA and Jenkins.
 			</p>
+			
+			<h3> Lockheed Martin - College Student Technical Specialist </h3>
+			<h5>July 2021 - January 2022</h5>
+
 		</div>
 
 		<div class="6u 12u$(small)">
