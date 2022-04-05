@@ -77,8 +77,17 @@ nav-menu: true
 	<div class="row">
 		
 		<div class="6u 12u$(small)">
+			<h3> Bandsintown Group - Software Engineer</h3>
+			<h5>May 2021 - August 2021</h5>
+
+			<p>
+			 	Software development in an agile envirnment utilizing php, javascript (node, react), and AWS tools.
+			</p>
+		</div>
+		
+		<div class="6u 12u$(small)">
 			<h3> Lockheed Martin - Associate Software Engineer</h3>
-			<h5>January 2022 - Present</h5>
+			<h5>January 2022 - April 2022</h5>
 			
 			<p>
 			 	Java development in an agile work envirornment, with the use of Unix, git, JIRA and Jenkins.
