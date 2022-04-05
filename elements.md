@@ -94,7 +94,7 @@ nav-menu: true
 			 	Java development in an agile work envirornment, with the use of Unix, git, JIRA and Jenkins.
 			</p>
 			
-			<h5> Lockheed Martin - College Student Technical Specialist </h3>
+			<h5> Lockheed Martin - College Student Technical Specialist </h5>
 			<h5>July 2021 - January 2022</h5>
 
 		</div>
