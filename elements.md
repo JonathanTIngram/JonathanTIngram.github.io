@@ -79,6 +79,7 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Bandsintown Group - Software Engineer</h3>
 			<h5>May 2021 - August 2021</h5>
+			<img src="https://images.squarespace-cdn.com/content/v1/53dc0ad4e4b0d46c1be75c62/1554491114823-LMNLT9I4LYTCOQM809RF/hand+logo.png"></img>
 
 			<p>
 			 	Software development in an agile envirnment utilizing php, javascript (node, react), and AWS tools.
@@ -88,12 +89,13 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Lockheed Martin - Associate Software Engineer</h3>
 			<h5>January 2022 - April 2022</h5>
+			<img src="https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/frigate/LM-logo.png"></img>
 			
 			<p>
 			 	Java development in an agile work envirornment, with the use of Unix, git, JIRA and Jenkins.
 			</p>
 			
-			<h3> Lockheed Martin - College Student Technical Specialist </h3>
+			<h5> Lockheed Martin - College Student Technical Specialist </h3>
 			<h5>July 2021 - January 2022</h5>
 
 		</div>
