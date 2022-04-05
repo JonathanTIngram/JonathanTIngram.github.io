@@ -88,7 +88,7 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Lockheed Martin - Associate Software Engineer</h3>
 			<h5>January 2022 - April 2022</h5>
-			<img src="https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/frigate/LM-logo.png" style="width: 10%;">
+			<img src="https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/frigate/LM-logo.png" style="width: 30%;">
 			
 			<p>
 			 	Java development in an agile work envirornment, with the use of Unix, git, JIRA and Jenkins.
