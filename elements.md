@@ -102,6 +102,7 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Effortless Presence - Software Engineer Intern</h3>
 			<h5>May 2021 - August 2021</h5>
+			<img src="https://www.effortlesspresence.com/wp-content/uploads/2021/08/EP_Logo_Large-50-1024x444.png" style="width: 30%;">
 
 			<p>
 			 	Fullstack web development using, MySQL, Express, React and NodeJS, with the use of Amazon Web Services (AWS) to deploy the aplication.
@@ -111,6 +112,7 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> HYPE Math - Backend Developer Intern</h3>
 			<h5>January 2021 - May 2021</h5>
+			<img src="https://hypemath.com/wp-content/uploads/2021/08/HYPE-Math-Logo-2021.png" style="width: 30%;">
 
 			<p>
 				In this agile work envirornment with the use of Trello, I played an active role in the backend development team. 
