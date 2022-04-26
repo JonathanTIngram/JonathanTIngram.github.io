@@ -78,7 +78,7 @@ nav-menu: true
 		
 		<div class="6u 12u$(small)">
 			<h3> Bandsintown Group - Software Engineer</h3>
-			<h5>May 2021 - August 2021</h5>
+			<h5>April 2022 - Present</h5>
 			<img src="https://images.squarespace-cdn.com/content/v1/53dc0ad4e4b0d46c1be75c62/1554491114823-LMNLT9I4LYTCOQM809RF/hand+logo.png" 				style="width: 10%;">
 			<p>
 			 	Software development in an agile envirnment utilizing php, javascript (node, react), and AWS tools.
