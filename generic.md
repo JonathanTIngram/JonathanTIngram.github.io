@@ -11,7 +11,7 @@ nav-menu: true
     <h1> Dungeons and Dragons Challenge Rating </h1>
 
     <p>
-        A Web Application for Dungeons and Dragons game master to find monster via challenge rating.
+        A Web Application for Dungeons and Dragons game master to find monster via challenge rating. Utilizes React and Node JS.
 </p>
 
 	<p>
