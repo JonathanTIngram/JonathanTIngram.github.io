@@ -15,9 +15,9 @@ nav-menu: true
 </p>
 
 	<p>
-	<img width="500" height="800" alt="DnD" src="https://user-images.githubusercontent.com/38962360/216467524-808442ac-e820-449c-890c-573a63958266.png">
+	<img width="500" height="700" alt="DnD" src="https://user-images.githubusercontent.com/38962360/216467524-808442ac-e820-449c-890c-573a63958266.png">
 	
-	<img width="500" height="800" alt="stats" src="https://user-images.githubusercontent.com/38962360/216468054-0c91ae35-7807-4ade-9be5-7059d0ed54c0.png">
+	<img width="500" height="700" alt="stats" src="https://user-images.githubusercontent.com/38962360/216468054-0c91ae35-7807-4ade-9be5-7059d0ed54c0.png">
 	</p>
 </div>
 <br/>
