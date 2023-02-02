@@ -12,7 +12,7 @@ nav-menu: true
 
     <p>
         A Web Application for Dungeons and Dragons game master to find monster via challenge rating.
-    </p
+</p>
 
 	<p>
 	<img width="535" alt="DnD" src="https://user-images.githubusercontent.com/38962360/216467524-808442ac-e820-449c-890c-573a63958266.png">
