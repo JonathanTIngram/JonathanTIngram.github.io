@@ -8,6 +8,20 @@ nav-menu: true
 
 
 <div>
+    <h1> Dungeons and Dragons Challenge Rating </h1>
+
+    <p>
+        A Web Application for Dungeons and Dragons game master to find monster via challenge rating.
+    </p
+
+	<p>
+	<img width="535" alt="DnD" src="https://user-images.githubusercontent.com/38962360/216467524-808442ac-e820-449c-890c-573a63958266.png">
+	
+	<img width="447" alt="stats" src="https://user-images.githubusercontent.com/38962360/216468054-0c91ae35-7807-4ade-9be5-7059d0ed54c0.png">
+	</p>
+</div>
+<br/>
+<div>
     <h1> Music Generator </h1>
 
 
