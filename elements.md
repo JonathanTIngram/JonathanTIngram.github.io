@@ -98,6 +98,7 @@ nav-menu: true
 		<img src="https://images.squarespace-cdn.com/content/v1/53dc0ad4e4b0d46c1be75c62/1554491114823-LMNLT9I4LYTCOQM809RF/hand+logo.png" style="width: 10%;">
 		<ul>
 			<li>Built and maintained full-stack features using PHP, JavaScript (Node.js, React), and AWS in an Agile/Scrum environment</li>
+			<li>Created data analysis pipelines with Python and AWS EMR, visualizing key metrics in Grafana to monitor system health and usage patterns</li>
 			<li>Collaborated cross-functionally with product and design teams to ship user-facing features</li>
 		</ul>
 	</div>
@@ -113,9 +114,7 @@ nav-menu: true
 
 		<h5> Lockheed Martin - College Student Technical Specialist </h5>
 		<h5>July 2021 - January 2022</h5>
-		<ul>
-			<li><!-- Add a line on what team/project you supported here --></li>
-		</ul>
+
 	</div>
 
 
