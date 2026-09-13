@@ -82,10 +82,10 @@ nav-menu: true
 		<h5>February 2023 - Present</h5>
 		<img src="aether.png" style="width: 30%;">
 		<ul>
-			<li>Perform hardware-in-the-loop (HIL) testing of GNSS/inertial navigation systems for APNT applications</li>
-			<li>Develop and maintain test automation software to validate GPS/INS hardware performance under simulated operational conditions</li>
-			<li>Collaborate with systems engineers to define test procedures and troubleshoot integration issues across navigation hardware/software stacks</li>
-			<!-- Consider adding a metric: # of test cycles automated, defects caught pre-deployment, time saved -->
+			<li>Perform hardware-in-the-loop (HIL) testing of GNSS/inertial navigation systems (GPS/INS) for Assured Positioning, Navigation, and Timing (APNT) applications, including performance under GPS-degraded and GPS-denied conditions</li>
+			<li>Design and maintain Python-based test automation frameworks to simulate operational scenarios, capture sensor telemetry, and validate navigation accuracy against ground-truth references</li>
+			<li>Integrate and troubleshoot navigation hardware/software stacks (GNSS receivers, IMUs, embedded controllers) with systems engineers, defining test procedures for cross-subsystem interfaces</li>
+			<li>Evaluate navigation system resilience under jamming, spoofing, and multipath interference to support autonomy and sensor-fusion requirements</li>
 		</ul>
 	</div>
 </div>
@@ -97,9 +97,9 @@ nav-menu: true
 		<h5>April 2022 - February 2023</h5>
 		<img src="https://images.squarespace-cdn.com/content/v1/53dc0ad4e4b0d46c1be75c62/1554491114823-LMNLT9I4LYTCOQM809RF/hand+logo.png" style="width: 10%;">
 		<ul>
-			<li>Built and maintained full-stack features using PHP, JavaScript (Node.js, React), and AWS in an Agile/Scrum environment</li>
-			<li>Created data analysis pipelines with Python and AWS EMR, visualizing key metrics in Grafana to monitor system health and usage patterns</li>
-			<li>Collaborated cross-functionally with product and design teams to ship user-facing features</li>
+			<li>Built and maintained full-stack features using PHP, JavaScript (Node.js, React), and AWS in an Agile/Scrum environment, from requirements through production deployment</li>
+			<li>Designed data analysis pipelines with Python and AWS EMR to process large-scale usage data, surfacing key metrics through Grafana dashboards for real-time system health and performance monitoring</li>
+			<li>Collaborated cross-functionally with product and design teams to translate requirements into reliable, user-facing features</li>
 		</ul>
 	</div>
 	
@@ -108,12 +108,17 @@ nav-menu: true
 		<h5>January 2022 - April 2022</h5>
 		<img src="https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/frigate/LM-logo.png" style="width: 30%;">
 		<ul>
-			<li>Developed Java-based software in an Agile environment using Unix, Git, JIRA, and Jenkins for CI/CD</li>
-			<!-- Consider adding: what system/product this supported -->
+			<li>Developed and tested Java-based software in an Agile environment, using Unix, Git, JIRA, and Jenkins to support continuous integration and delivery</li>
+			<li>Wrote unit and integration tests to validate software reliability within a safety-conscious, process-driven development environment</li>
+			<li>Worked alongside senior engineers to troubleshoot defects and improve code quality across the development lifecycle</li>
 		</ul>
 
 		<h5> Lockheed Martin - College Student Technical Specialist </h5>
 		<h5>July 2021 - January 2022</h5>
+		<ul>
+			<li>Built a data analysis tool in Java to process and evaluate internal datasets, supporting engineering decision-making</li>
+			<li>Used Jenkins to automate build and test workflows for the tool during development</li>
+		</ul>
 
 	</div>
 
