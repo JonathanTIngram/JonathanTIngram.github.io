@@ -78,7 +78,7 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Aether Aerospace - Computer Scientist/Engineer</h3>
 			<h5>April 2022 - Present</h5>
-			<img src="aether.png" 				style="width: 10%;">
+			<img src="aether.png" 				style="width: 30%;">
 			<p>
 			 	Hardware in the loop testing and software development in the GNSS/Inertial navigation space.
 			</p>
