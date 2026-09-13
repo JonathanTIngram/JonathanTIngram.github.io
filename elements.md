@@ -78,7 +78,7 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Aether Aerospace - Computer Scientist/Engineer</h3>
 			<h5>April 2022 - Present</h5>
-			<img src="https://images.squarespace-cdn.com/content/v1/53dc0ad4e4b0d46c1be75c62/1554491114823-LMNLT9I4LYTCOQM809RF/hand+logo.png" 				style="width: 10%;">
+			<img src="aether.png" 				style="width: 10%;">
 			<p>
 			 	Hardware in the loop testing and software development in the GNSS/Inertial navigation space.
 			</p>
@@ -110,27 +110,6 @@ nav-menu: true
 
 		</div>
 
-		<div class="6u 12u$(small)">
-			<h3> Effortless Presence - Software Engineer Intern</h3>
-			<h5>May 2021 - August 2021</h5>
-			<img src="https://www.effortlesspresence.com/wp-content/uploads/2021/08/EP_Logo_Large-50-1024x444.png" style="width: 30%;">
-
-			<p>
-			 	Fullstack web development using, MySQL, Express, React and NodeJS, with the use of Amazon Web Services (AWS) to deploy the aplication.
-			</p>
-		</div>
-
-		<div class="6u 12u$(small)">
-			<h3> HYPE Math - Backend Developer Intern</h3>
-			<h5>January 2021 - May 2021</h5>
-			<img src="https://hypemath.com/wp-content/uploads/2021/08/HYPE-Math-Logo-2021.png" style="width: 15%;">
-
-			<p>
-				In this agile work envirornment with the use of Trello, I played an active role in the backend development team. 
-				The primary technologies I used while at this position were MySQL and NodeJS.
-			</p>
-		</div>
-
 		<!-- Break -->
 
 </div>
@@ -149,7 +128,6 @@ nav-menu: true
 			<img src="https://www.rowan.edu/_files/_files/images/RowanLogo.png" style="width: 30%;">
 			<p>
 				 	Rowan University, Glassboro, NJ <br>
-					 GPA: 3.39
 			</p>
 		</div>
 
@@ -159,7 +137,6 @@ nav-menu: true
 			<img src="https://www.rcbc.edu/sites/default/files/styles/chuppies_header_logo/public/Images/RCBC-logo_edited.png?itok=4GWNiP4E" style="width: 30%;">
 			<p>
 				 	Rowan College at Burlington County, Mount Laurel, NJ <br>
-					 GPA: 3.07
 			</p>
 		</div>
 
