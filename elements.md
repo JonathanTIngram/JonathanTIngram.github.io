@@ -74,16 +74,7 @@ nav-menu: true
 <div>
 	<h2 id="content">Work Experience</h2>
 
-	<div class="row">
-			<div class="6u 12u$(small)">
-				<h3> Aether Aerospace - Computer Scientist/Engineer</h3>
-				<h5>April 2022 - Present</h5>
-				<img src="aether.png" 				style="width: 10%;">
-				<p>
-			 		Hardware in the Loop testing and software development in the GNSS/Inertial navigation space. 
-				</p>
-			</div>	
-	</div>
+
 
 	<div class="row">
 		
