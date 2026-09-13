@@ -73,42 +73,51 @@ nav-menu: true
 <br><br>
 <div>
 	<h2 id="content">Work Experience</h2>
+
+
 	
-	<div class="row">
-		<div class="6u 12u$(small)">
-			<h3> Aether Aerospace - Computer Scientist/Engineer</h3>
-			<h5>April 2022 - Present</h5>
-			<img src="aether.png" 				style="width: 30%;">
-			<p>
-			 	Hardware in the loop testing and software development in the GNSS/Inertial navigation space.
-			</p>
-		</div>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3> Aether Aerospace - Computer Scientist/Engineer</h3>
+		<h5>February 2023 - Present</h5>
+		<img src="aether.png" style="width: 30%;">
+		<ul>
+			<li>Perform hardware-in-the-loop (HIL) testing of GNSS/inertial navigation systems for APNT applications</li>
+			<li>Develop and maintain test automation software to validate GPS/INS hardware performance under simulated operational conditions</li>
+			<li>Collaborate with systems engineers to define test procedures and troubleshoot integration issues across navigation hardware/software stacks</li>
+			<!-- Consider adding a metric: # of test cycles automated, defects caught pre-deployment, time saved -->
+		</ul>
+	</div>
+</div>
+
+<div class="row">
+	
+	<div class="6u 12u$(small)">
+		<h3> Bandsintown Group - Software Engineer</h3>
+		<h5>April 2022 - February 2023</h5>
+		<img src="https://images.squarespace-cdn.com/content/v1/53dc0ad4e4b0d46c1be75c62/1554491114823-LMNLT9I4LYTCOQM809RF/hand+logo.png" style="width: 10%;">
+		<ul>
+			<li>Built and maintained full-stack features using PHP, JavaScript (Node.js, React), and AWS in an Agile/Scrum environment</li>
+			<li>Collaborated cross-functionally with product and design teams to ship user-facing features</li>
+		</ul>
+	</div>
+	
+	<div class="6u 12u$(small)">
+		<h3> Lockheed Martin - Associate Software Engineer</h3>
+		<h5>January 2022 - April 2022</h5>
+		<img src="https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/frigate/LM-logo.png" style="width: 30%;">
+		<ul>
+			<li>Developed Java-based software in an Agile environment using Unix, Git, JIRA, and Jenkins for CI/CD</li>
+			<!-- Consider adding: what system/product this supported -->
+		</ul>
+
+		<h5> Lockheed Martin - College Student Technical Specialist </h5>
+		<h5>July 2021 - January 2022</h5>
+		<ul>
+			<li><!-- Add a line on what team/project you supported here --></li>
+		</ul>
 	</div>
 
-	<div class="row">
-		
-		<div class="6u 12u$(small)">
-			<h3> Bandsintown Group - Software Engineer</h3>
-			<h5>April 2022 - Present</h5>
-			<img src="https://images.squarespace-cdn.com/content/v1/53dc0ad4e4b0d46c1be75c62/1554491114823-LMNLT9I4LYTCOQM809RF/hand+logo.png" 				style="width: 10%;">
-			<p>
-			 	Software development in an agile envirnment utilizing php, javascript (node, react), and AWS tools.
-			</p>
-		</div>
-		
-		<div class="6u 12u$(small)">
-			<h3> Lockheed Martin - Associate Software Engineer</h3>
-			<h5>January 2022 - April 2022</h5>
-			<img src="https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/frigate/LM-logo.png" style="width: 30%;">
-			
-			<p>
-			 	Java development in an agile work envirornment, with the use of Unix, git, JIRA and Jenkins.
-			</p>
-			
-			<h5> Lockheed Martin - College Student Technical Specialist </h5>
-			<h5>July 2021 - January 2022</h5>
-
-		</div>
 
 		<!-- Break -->
 
