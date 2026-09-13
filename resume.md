@@ -146,7 +146,7 @@ nav-menu: true
 		<div class="6u 12u$(small)">
 			<h3> Associate of Science, Computer Science </h3>
 			<h5> September 2018 - August 2020 </h5>
-			<img src="https://www.rcbc.edu/sites/default/files/styles/chuppies_header_logo/public/Images/RCBC-logo_edited.png?itok=4GWNiP4E" style="width: 30%;">
+			<img src="https://rcbc.edu/themes/custom/provus_meridian/logo.png" style="width: 30%;">
 			<p>
 				 	Rowan College at Burlington County, Mount Laurel, NJ <br>
 			</p>
