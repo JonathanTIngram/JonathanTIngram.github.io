@@ -85,7 +85,6 @@ nav-menu: true
 			<li>Perform hardware-in-the-loop (HIL) testing of GNSS/inertial navigation systems (GPS/INS) for Assured Positioning, Navigation, and Timing (APNT) applications, including performance under GPS-degraded and GPS-denied conditions</li>
 			<li>Design and maintain Python-based test automation frameworks to simulate operational scenarios, capture sensor telemetry, and validate navigation accuracy against ground-truth references</li>
 			<li>Integrate and troubleshoot navigation hardware/software stacks (GNSS receivers, IMUs, embedded controllers) with systems engineers, defining test procedures for cross-subsystem interfaces</li>
-			<li>Evaluate navigation system resilience under jamming, spoofing, and multipath interference to support autonomy and sensor-fusion requirements</li>
 		</ul>
 	</div>
 </div>
