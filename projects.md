@@ -8,6 +8,42 @@ nav-menu: true
 
 
 <div>
+    <h1> FM Radio Parser (RTL-SDR) </h1>
+
+    <p>
+        An FM radio parser built for an RTL-SDR V4 with a QT GUI. Includes a live FM tuner, an RF waterfall diagram, a spectrum analyzer, and RDS packet decoding. Written in Python, inspired by the online book <a target="_blank" href="https://pysdr.org/content/rtlsdr">PySDR</a>.
+    </p>
+
+    <p>
+        <img width="500" alt="FM Tuner" src="https://raw.githubusercontent.com/JonathanTIngram/fm_sdr/main/mdImages/fmTunerV1.png">
+
+        <img width="500" alt="RF Waterfall" src="https://raw.githubusercontent.com/JonathanTIngram/fm_sdr/main/mdImages/rfWaterfall.png">
+    </p>
+
+    <p>
+        <img width="500" alt="Spectrum Analyzer" src="https://raw.githubusercontent.com/JonathanTIngram/fm_sdr/main/mdImages/spectrumAnalyzer.png">
+
+        <img width="500" alt="RDS Packet Info" src="https://raw.githubusercontent.com/JonathanTIngram/fm_sdr/main/mdImages/rdsPacketInfoV1.png">
+    </p>
+
+    <div>
+    <a target="_blank"
+        href="https://github.com/JonathanTIngram/fm_sdr"
+        style="text-decoration: none;">
+    Source Code
+    </a>
+    </div>
+
+    <br>
+
+    <h2> Hardware Used </h2>
+
+    <a target="_blank"
+    href="https://www.rtl-sdr.com/">
+    RTL-SDR V4 </a>
+</div>
+<br/>
+<div>
     <h1> Dungeons and Dragons Challenge Rating </h1>
 
     <p>
