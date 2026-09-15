@@ -86,6 +86,14 @@
 							border-top: 0 !important;
 						}
 					}
+
+					> a.nav-cta {
+						color: _palette(highlight);
+
+						&:hover {
+							color: _palette(fg-bold) !important;
+						}
+					}
 				}
 			}
 		}
