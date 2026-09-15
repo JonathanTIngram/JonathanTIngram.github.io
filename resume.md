@@ -136,7 +136,6 @@ nav-menu: true
 
 		<div class="6u 12u$(small)">
 			<h3> Bachelor of Science, Computer Science </h3>
-			<h5> September 2020 - December 2021 </h5>
 			<img src="https://www.rowan.edu/_files/_files/images/RowanLogo.png" style="width: 30%;">
 			<p>
 				 	Rowan University, Glassboro, NJ <br>
@@ -145,7 +144,6 @@ nav-menu: true
 
 		<div class="6u 12u$(small)">
 			<h3> Associate of Science, Computer Science </h3>
-			<h5> September 2018 - August 2020 </h5>
 			<img src="https://rcbc.edu/themes/custom/provus_meridian/logo.png" style="width: 30%;">
 			<p>
 				 	Rowan College at Burlington County, Mount Laurel, NJ <br>
